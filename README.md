@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966)]
+![MasterHead](https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966)
 <h1 align="center">Hi 👋, I'm Akanksha Pundir</h1>
 <h3 align="center">A 2nd year undergrad pursuing B.Tech in Computer Science & Engineering at G.L. Bajaj Institute of Technology & Management, Greater Noida</h3>
 
