@@ -1,9 +1,18 @@
 <!-- Banner -->
+<table>
+  <tr>
+    <td width="70%">
 
 <h1 align="center">Hi there 👋, I'm Akanksha Pundir</h1>
 <h3 align="center">Final-year CSE Student | Software Developer | Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" />
+
+</td>
+<td width="30%">
+  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" />
+</td>
+</tr>
+</table>
 
 ---
 
