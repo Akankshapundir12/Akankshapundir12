@@ -82,9 +82,6 @@
 <a href="mailto:akankshapundir30@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Akankshapundir12">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
-</a>
 <a href="https://linktr.ee/akanksha_pundir" target="_blank">
   <img src="https://img.shields.io/badge/-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white" />
 </a>
