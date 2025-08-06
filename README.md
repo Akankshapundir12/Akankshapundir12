@@ -46,6 +46,15 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🏅 **Finalist**, SAP HackFest 2025 – Among top 10 teams out of 300+ participants  
+- 🏅 **Finalist**, CDG Ideathon 2023 – Among top 7 teams at state level  
+- 🏀 Winner, Inter-University Basketball Zonal Tournament 2023–24
+- 🏀 Runner-up, Inter-University Basketball State Tournament 2023–24
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages:**  
@@ -59,30 +68,20 @@
 
 ---
 
-### 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akankshapundir12&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Rishivarshney100&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rishi" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishivarshney100&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshapundir12&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishivarshney100&theme=tokyonight&hide_border=true" align="left" width="450" alt="Rishi Varshney"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishivarshney100&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Rishi Varshney"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshapundir12&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+----------------------
 
----
-
-### 🏆 Achievements
-
-- 🏅 **Finalist**, SAP HackFest 2025 – Among top 10 teams out of 300+ participants  
-- 🏅 **Finalist**, CDG Ideathon 2023 – Among top 7 teams at state level  
-- 🏀 Winner, Inter-University Basketball Zonal Tournament 2023–24
-- 🏀 Runner-up, Inter-University Basketball State Tournament 2023–24
-
----
 
 ### 🌐 Connect with Me
 
